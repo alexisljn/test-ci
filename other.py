@@ -1,2 +1,2 @@
-
-print('salut')
+"""This module does blah blah."""
+print('salust')
